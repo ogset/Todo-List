@@ -3,8 +3,8 @@
 18.01.2020
 --Simple ToDoList project--
 
---Run "npm install" in the extracted folder
---Run "npm start" to view the project
+-Run "npm install" in the extracted folder
+-Run "npm start" to view the project
 
 - A React project to keep updated about "ToDos"
 - Using https://jsonplaceholder.typicode.com/ for fake backend
